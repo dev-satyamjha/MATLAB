@@ -1,0 +1,20 @@
+﻿% WAP to do Matrix multiplucation
+
+clc;
+clear;
+
+for i = 1:10;
+
+fprintf("Table for %d \n", i)
+
+    for j = 1:10;
+    result = i*j;
+     fprintf("%d x %d = %d \n",i,j,result);
+     
+    end
+
+fprintf("\n");
+
+end
+
+
