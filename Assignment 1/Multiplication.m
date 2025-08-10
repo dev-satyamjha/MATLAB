@@ -1,4 +1,4 @@
-﻿% WAP to do Matrix multiplucation
+﻿% WAP to do print table from 1 to 10
 
 clc;
 clear;
